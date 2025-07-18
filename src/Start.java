@@ -20,6 +20,7 @@ public class Start {
             int choice = Integer.parseInt(bufferedReader.readLine());
             switch (choice) {
                 case 1:
+                    
                     // add student
                     System.out.println("Enter The Name of the Student.");
                     String StudentName = bufferedReader.readLine();
